@@ -1,4 +1,5 @@
 
 <center><img src="https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png" alt="Emblema da ONE pelo Challenge" width="50%"></center>
+<center>**Emblema concedido pela ONE em parceria com a ALURA pelo Challenge Amigo Secreto**</center>
 
 
