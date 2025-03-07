@@ -16,3 +16,6 @@
 <br>
 **app.js**: Lógica do sorteio e manipulação da lista.
 
+<br><br>
+<center><img src="https://github.com/mauro-pinheiro51/amigo-secreto/raw/main/assets/amigo-secreto-demo.gif" alt="Demonstração do Amigo Secreto"></center>
+
