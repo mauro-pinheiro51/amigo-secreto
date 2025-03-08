@@ -19,3 +19,5 @@
 <br><br>
 <center><img src="https://github.com/mauro-pinheiro51/amigo-secreto/raw/main/assets/amigo-secreto-demo.gif" alt="Demonstração do Amigo Secreto"></center>
 
+Este é um GIF de demonstração, após o sorteio, a pagina deverá ser renderizada para iniciar nova lista.
+
